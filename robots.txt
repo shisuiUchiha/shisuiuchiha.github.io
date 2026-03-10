@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shisuiuchiha.github.io/sitemap.xml

@@ -1,0 +1,13 @@
+title: Peronal Blog
+description: Personal Baf for Personal Use
+url: https://shisuiuchiha.github.io/
+
+permalink: /blog/:title/
+
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+future: true
