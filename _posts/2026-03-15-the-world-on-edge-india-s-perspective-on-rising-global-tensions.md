@@ -6,7 +6,7 @@
         tags: [global-affairs, blog]
 ---
 
-        As I sit here in India, watching the news unfold about the US deploying 2,200 Marines to the Middle East, I couldn't help but feel a sense of unease. The tension in the region has been simmering for a while now, and this latest development only adds to the uncertainty. Just last week, we were being told that the war was over and that the US had emerged victorious. But now, it seems like the situation on the ground is far more complex than that.
+As I sit here in India, watching the news unfold about the US deploying 2,200 Marines to the Middle East, I couldn't help but feel a sense of unease. The tension in the region has been simmering for a while now, and this latest development only adds to the uncertainty. Just last week, we were being told that the war was over and that the US had emerged victorious. But now, it seems like the situation on the ground is far more complex than that.
 
 As an Indian, I have a unique perspective on global affairs. We're a nation that has long walked the tightrope of international diplomacy, maintaining good relations with both the US and Iran, among other countries. But as the situation in the Middle East continues to deteriorate, it's getting increasingly difficult to remain neutral. The deployment of US Marines to the region, along with the positioning of destroyers and carriers, suggests that the US is preparing for a potential conflict.
 
