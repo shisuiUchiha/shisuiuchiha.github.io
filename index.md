@@ -5,14 +5,14 @@ title: Home
 
 # My Thoughts
 
-my views, essays and explanations about technology, coding, world affairs and travel.
+my views, essays and explanations about technology, science, world affairs and travel.
 
 ---
 
 ## Topics
 
 - [Technology](/topics/technology)
-- [Coding](/topics/coding)
+- [Science](/topics/science)
 - [Global Affairs](/topics/global-affairs)
 - [Economy](/topics/economy)
 - [Travel](/topics/travel)
