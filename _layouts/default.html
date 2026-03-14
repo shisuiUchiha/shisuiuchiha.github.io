@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="UTF-8">
-<title>{{ page.title }} | Personal Blog</title>
+<title>{{ page.title }} | {{ site.title }}</title>
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <!-- Google tag (gtag.js) -->
@@ -21,23 +21,35 @@
 <body>
 
 <header>
-<h1>CAT Prep Blog</h1>
+
+<h1><a href="/">Personal Blog</a></h1>
 
 <nav>
 <a href="/">Home</a>
+<a href="/topics/technology">Technology</a>
+<a href="/topics/coding">Coding</a>
+<a href="/topics/global-affairs">Global Affairs</a>
+<a href="/topics/economy">Economy</a>
+<a href="/topics/travel">Travel</a>
 <a href="/about">About</a>
 </nav>
 
 <hr>
+
 </header>
 
 <div class="container">
+
 {{ content }}
+
 </div>
 
 <footer>
+
 <hr>
-<p>© 2026 CAT Prep Blog</p>
+
+<p>© 2026 Personal Blog</p>
+
 </footer>
 
 </body>

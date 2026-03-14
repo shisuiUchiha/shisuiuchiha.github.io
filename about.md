@@ -3,6 +3,8 @@ layout: default
 title: About
 ---
 
-# About This Blog
+# About
 
-This blog shares strategies, tips and resources for CAT exam preparation.
+This blog explores my views regarding technology, coding, global affairs, economics, travel and more.
+
+Articles aim to simplify complex topics and encourage thoughtful reading in the era of AI Bots.

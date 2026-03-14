@@ -1,13 +1,8 @@
-title: Peronal Blog
-description: Personal Baf for Personal Use
+title: Personal Blog
+description: My views on technology, coding, global affairs, economy, travel and more
 url: https://shisuiuchiha.github.io/
 
-permalink: /blog/:title/
-
 markdown: kramdown
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+permalink: /posts/:title/
 
 future: true
