@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Personal Blog
+# My Thoughts
 
-Thoughts, essays and explanations about technology, coding, world affairs and travel.
+my views, essays and explanations about technology, coding, world affairs and travel.
 
 ---
 
