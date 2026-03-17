@@ -18,3 +18,9 @@ text-decoration: none;
 article h1 {
 margin-bottom: 5px;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
