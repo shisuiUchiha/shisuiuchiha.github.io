@@ -8,9 +8,9 @@
         
 The internet is filled with travel destinations, but Singapore stands out as one of the best places to visit in Asia. Known for its modern skyline, cultural diversity, and world-class attractions, Singapore offers a perfect mix of technology, tourism, food, and entertainment.
 
-**Financial Dsitric**
+**Financial District**
 
-![Financial Dsitrict](../assets/images/travel/singapore/financial_district-1.jpg)
+![Financial District](/assets/images/travel/singapore/financial_district-1.jpg)
 
 ![Parliament](../assets/images/travel/singapore/parliament.jpg)
 
