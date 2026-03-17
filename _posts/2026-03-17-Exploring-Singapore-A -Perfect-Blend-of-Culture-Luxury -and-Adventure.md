@@ -5,14 +5,14 @@
         categories: travel
         tags: [travel, blog]
 ---
-        
+
+![Parliament](/assets/images/travel/singapore/parliament.jpg)
+
 The internet is filled with travel destinations, but Singapore stands out as one of the best places to visit in Asia. Known for its modern skyline, cultural diversity, and world-class attractions, Singapore offers a perfect mix of technology, tourism, food, and entertainment.
 
 **Financial District**
 
 ![Financial District](/assets/images/travel/singapore/financial_district-1.jpg)
-
-![Parliament](../assets/images/travel/singapore/parliament.jpg)
 
 Walking through Singapore’s financial district feels like stepping into the future. Surrounded by sleek skyscrapers, luxury hotels, and bustling professionals, this area reflects the city’s status as a global financial hub.
 
@@ -32,7 +32,7 @@ From delicious Indian cuisine to street shopping, it’s a must-visit for those 
 
 **Gardens by the Bay: A Futuristic Nature Experience**
 
-![Gardens by the Bay](../assets/images/travel/singapore/gardens_by_the_bay.jpg)
+![Gardens by the Bay](/assets/images/travel/singapore/gardens_by_the_bay.jpg)
 
 Gardens by the Bay is one of Singapore’s most iconic attractions. The towering Supertree structures and climate-controlled domes create a surreal blend of nature and technology.
 
@@ -46,7 +46,7 @@ It’s the perfect place to explore Singapore’s cultural roots, try local food
 
 **Sentosa Island: The Ultimate Getaway**
 
-![Sentosa](../assets/images/travel/singapore/pheonix_show_sentosa.jpg)
+![Sentosa](/assets/images/travel/singapore/pheonix_show_sentosa.jpg)
 
 Sentosa Island is Singapore’s top destination for relaxation and entertainment. With beautiful beaches, luxury resorts, and exciting attractions, it offers something for every traveler.
 
