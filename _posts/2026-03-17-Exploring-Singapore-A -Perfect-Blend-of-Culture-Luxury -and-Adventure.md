@@ -6,7 +6,9 @@
         tags: [travel, blog]
 ---
 
-![Parliament](/assets/images/travel/singapore/parliament.jpg)
+<p align="center">
+  <img src="{{ '/assets/images/travel/singapore/parliament.jpg' | relative_url }}" alt="Parliament" width="80%">
+</p>
 
 The internet is filled with travel destinations, but Singapore stands out as one of the best places to visit in Asia. Known for its modern skyline, cultural diversity, and world-class attractions, Singapore offers a perfect mix of technology, tourism, food, and entertainment.
 
