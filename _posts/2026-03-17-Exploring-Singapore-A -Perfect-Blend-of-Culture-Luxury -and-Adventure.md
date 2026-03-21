@@ -14,7 +14,10 @@ The internet is filled with travel destinations, but Singapore stands out as one
 
 **Financial District**
 
-![Financial District](/assets/images/travel/singapore/financial_district-1.jpg)
+<p align="center">
+  <img src="{{ '/assets/images/travel/singapore/financial_district-1.jpg' | relative_url }}" alt="Financial District" width="80%">
+</p>
+
 
 Walking through Singapore’s financial district feels like stepping into the future. Surrounded by sleek skyscrapers, luxury hotels, and bustling professionals, this area reflects the city’s status as a global financial hub.
 
@@ -50,7 +53,10 @@ It’s the perfect place to explore Singapore’s cultural roots, try local food
 
 **Sentosa Island: The Ultimate Getaway**
 
-![Sentosa](/assets/images/travel/singapore/pheonix_show_sentosa.jpg)
+<p align="center">
+  <img src="{{ '/assets/images/travel/singapore/pheonix_show_sentosa.jpg' | relative_url }}" alt="Sentosa" width="80%">
+</p>
+
 
 Sentosa Island is Singapore’s top destination for relaxation and entertainment. With beautiful beaches, luxury resorts, and exciting attractions, it offers something for every traveler.
 
