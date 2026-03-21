@@ -34,7 +34,9 @@ From delicious Indian cuisine to street shopping, it’s a must-visit for those 
 
 **Gardens by the Bay: A Futuristic Nature Experience**
 
-![Gardens by the Bay](/assets/images/travel/singapore/gardens_by_the_bay.jpg)
+<p align="center">
+  <img src="{{ '/assets/images/travel/singapore/gardens_by_the_bay.jpg' | relative_url }}" alt="Gardens by the bay" width="80%">
+</p>
 
 Gardens by the Bay is one of Singapore’s most iconic attractions. The towering Supertree structures and climate-controlled domes create a surreal blend of nature and technology.
 
