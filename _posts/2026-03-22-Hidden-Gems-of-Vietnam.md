@@ -17,6 +17,12 @@ Vietnam is one of the most exciting travel destinations in Southeast Asia, and *
   <p>Cu Chi Tunnels</p>
 </div>
 
+<div class="affiliate-box">
+  👉 <a href="https://affiliate.klook.com/redirect?aid=116573&aff_adid=1241681&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F33108-cu-chi-tunnels-mekong-delta-tour-limousine%2F" target="_blank">
+  Book tour to Cu Chi Tunnels and Mekong Delta
+  </a>
+</div>
+
 The **Cu Chi Tunnels** are one of Vietnam’s most fascinating historical sites. This vast underground network was used by the Viet Cong during the Vietnam War for shelter, communication, and strategy.
 
 Walking through these tunnels gives you a powerful insight into the resilience and ingenuity of the Vietnamese people. It’s a must-visit for anyone interested in history.
@@ -30,6 +36,12 @@ Walking through these tunnels gives you a powerful insight into the resilience a
   <p>Bitexco Financial Tower</p>
 </div>
 
+<div class="affiliate-box">
+  👉 <a href="https://affiliate.klook.com/redirect?aid=116573&aff_adid=1241682&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F5496-saigon-skydeck-bitexco-financial-tower-admission-ticket-ho-chi-minh-city%2F" target="_blank">
+  Book Ticket to Saigon Skydeck
+  </a>
+</div>
+
 The **Bitexco Financial Tower** is one of the most iconic buildings in Ho Chi Minh City. Its observation deck offers breathtaking panoramic views of the skyline and the Saigon River.
 
 It’s the perfect spot to understand how modern and fast-growing the city has become.
@@ -41,6 +53,12 @@ It’s the perfect spot to understand how modern and fast-growing the city has b
 <div class="media">
   <img src="{{ '/assets/images/travel/vietnam/indochina_cruise_saigon.jpg' | relative_url }}" alt="Saigon River Cruise" width="80%">
   <p>Saigon River Cruise</p>
+</div>
+
+<div class="affiliate-box">
+  👉 <a href="https://affiliate.klook.com/redirect?aid=116573&aff_adid=1241684&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F54806-indochina-junk-ho-chi-minh-city-cruise-tour%2F" target="_blank">
+  Enjoy Saigon River Cruise - Book here.
+  </a>
 </div>
 
 A cruise along the **Saigon River** is one of the most relaxing experiences in the city. Indochina cruises offer scenic views, cultural performances, and delicious local cuisine.
