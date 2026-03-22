@@ -65,6 +65,12 @@ From delicious Indian cuisine to street shopping, it’s a must-visit for those 
   <p>Gardens by the Bay Supertree light show</p>
 </div>
 
+<div class="affiliate-box">
+  👉 <a href="https://affiliate.klook.com/redirect?aid=116573&aff_adid=1241671&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F127-gardens-by-the-bay-singapore%2F" target="_blank">
+  Check prices & availability on Klook
+  </a>
+</div>
+
 Gardens by the Bay is one of Singapore’s most iconic attractions. The towering Supertree structures and climate-controlled domes create a surreal blend of nature and technology.
 
 The light show in the evening is a must-watch and makes it one of the top Instagram-worthy places in Singapore.
@@ -91,6 +97,12 @@ It’s the perfect place to explore Singapore’s cultural roots, try local food
     <source src="{{ '/assets/videos/travel/singapore/sentosa.mp4' | relative_url }}" type="video/mp4">
   </video>
   <p>Cable car ride and views around Sentosa Island</p>
+</div>
+
+<div class="affiliate-box">
+  👉 <a href="https://affiliate.klook.com/redirect?aid=116573&aff_adid=1241673&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F130-faber-peak-cable-car-singapore%2F" target="_blank">
+  Check prices & availability on Klook
+  </a>
 </div>
 
 Sentosa Island is Singapore’s top destination for relaxation and entertainment. With beautiful beaches, luxury resorts, and exciting attractions, it offers something for every traveler.

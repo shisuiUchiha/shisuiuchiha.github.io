@@ -67,3 +67,23 @@ body {
   h2 {
     margin-top: 40px;
   }
+
+  /* Affiliate Callout Box */
+.affiliate-box {
+  margin: 20px 0;
+  padding: 14px 18px;
+  background: #f5f9ff;
+  border-left: 4px solid #0077cc;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.affiliate-box a {
+  color: #0077cc;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.affiliate-box a:hover {
+  text-decoration: underline;
+}
