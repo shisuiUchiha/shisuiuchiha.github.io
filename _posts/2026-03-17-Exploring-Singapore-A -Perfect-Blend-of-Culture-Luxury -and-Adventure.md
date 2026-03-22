@@ -25,6 +25,11 @@ The skyline—especially at night—is one of the most iconic views in the world
 
 **Merlion Park: The Icon of Singapore**
 
+<video controls width="100%">
+<source src="/assets/videos/travel/singapore/fd.mp4" type="video/mp4">
+</video>
+
+
 No trip to Singapore is complete without visiting the famous Merlion. With the body of a fish and the head of a lion, it represents Singapore’s origins as a fishing village and its rise as a global city.
 
 This spot offers some of the best photo opportunities in Singapore, especially during sunset.
@@ -34,6 +39,10 @@ This spot offers some of the best photo opportunities in Singapore, especially d
 Little India is one of the most vibrant neighborhoods in Singapore. Filled with colorful streets, traditional shops, and temples, it offers an authentic cultural experience.
 
 From delicious Indian cuisine to street shopping, it’s a must-visit for those who love food, culture, and local markets.
+
+<video controls width="100%">
+<source src="/assets/videos/travel/singapore/gbtb.mp4" type="video/mp4">
+</video>
 
 **Gardens by the Bay: A Futuristic Nature Experience**
 
@@ -50,6 +59,10 @@ The light show in the evening is a must-watch and makes it one of the top Instag
 Chinatown blends heritage with modern lifestyle seamlessly. You’ll find historic temples alongside trendy cafes and bustling street markets.
 
 It’s the perfect place to explore Singapore’s cultural roots, try local food, and shop for souvenirs.
+
+<video controls width="100%">
+<source src="/assets/videos/travel/singapore/sentosa.mp4" type="video/mp4">
+</video>
 
 **Sentosa Island: The Ultimate Getaway**
 
