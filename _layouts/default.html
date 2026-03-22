@@ -3,22 +3,29 @@
 
 <head>
 <meta charset="UTF-8">
-<title>{{ page.title }} | {{ site.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+
 <link rel="stylesheet" href="/assets/css/style.css">
 
-<!-- Google tag (gtag.js) -->
+<!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HXPZM8QESE"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-HXPZM8QESE');
 </script>
+
+<!-- Klook Script -->
+<script async src="https://affiliate.klook.com/widget/fetch-iframe-init.js"></script>
 
 </head>
 
 <body>
+
+<div class="container">
 
 <header>
 
@@ -39,11 +46,21 @@
 
 </header>
 
-<div class="container">
-
 {{ content }}
 
+{% if page.categories contains "travel" %}
+<div class="affiliate-box">
+  <p class="affiliate-title">🎟️ Explore Experiences</p>
+
+  <ins class="klk-aff-widget"
+    data-wid="116573"
+    data-adid="1241657"
+    data-prod="banner"
+    data-width="300"
+    data-height="250">
+  </ins>
 </div>
+{% endif %}
 
 <footer>
 
@@ -53,6 +70,7 @@
 
 </footer>
 
-</body>
+</div>
 
+</body>
 </html>
