@@ -1,26 +1,75 @@
 body {
-font-family: Arial, sans-serif;
-max-width: 800px;
-margin: auto;
-padding: 20px;
-line-height: 1.6;
-}
-
-header h1 {
-margin-bottom: 5px;
-}
-
-nav a {
-margin-right: 15px;
-text-decoration: none;
-}
-
-article h1 {
-margin-bottom: 5px;
-}
-
-img {
-    max-width: 100%;
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    line-height: 1.7;
+  }
+  
+  /* Header */
+  header h1 {
+    margin-bottom: 5px;
+  }
+  
+  /* Navigation */
+  nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+  }
+  
+  nav a:hover {
+    color: #0077cc;
+  }
+  
+  /* Article */
+  article h1 {
+    margin-bottom: 10px;
+  }
+  
+  /* 🔥 REMOVE global img styling conflict */
+  /* img { max-width: 100%; }  ❌ REMOVE */
+  
+  /* ===== MEDIA SYSTEM ===== */
+  
+  .media {
+    max-width: 700px;   /* same for all media */
+    margin: 40px auto;  /* more breathing space */
+    text-align: center;
+  }
+  
+  /* Images */
+  .media img {
+    width: 100%;
     height: auto;
-    border-radius: 10px;
-}
+    border-radius: 12px;
+    display: block;
+  }
+  
+  /* Videos */
+  .media video {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+  }
+  
+  /* Caption */
+  .media p {
+    font-size: 13px;
+    color: #777;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 1.4;
+  }
+  
+  /* Improve text readability */
+  p {
+    margin: 15px 0;
+  }
+  
+  /* Section spacing */
+  h2 {
+    margin-top: 40px;
+  }

@@ -6,9 +6,9 @@ categories: travel
 tags: [travel, blog]
 ---
 
-<div class="image-center">
+<div class="media">
   <img src="{{ '/assets/images/travel/singapore/parliament.jpg' | relative_url }}" alt="Singapore Parliament building architecture">
-  <p class="image-caption">Singapore Parliament building</p>
+  <p>Singapore Parliament building</p>
 </div>
 
 The internet is filled with travel destinations, but Singapore stands out as one of the best places to visit in Asia. Known for its modern skyline, cultural diversity, and world-class attractions, Singapore offers a perfect mix of technology, tourism, food, and entertainment.
@@ -17,24 +17,24 @@ The internet is filled with travel destinations, but Singapore stands out as one
 
 ## Financial District
 
-<div class="image-center">
+<div class="media">
   <img src="{{ '/assets/images/travel/singapore/financial_district-1.jpg' | relative_url }}" alt="Singapore financial district skyline at night">
-  <p class="image-caption">Singapore’s iconic financial district skyline</p>
+  <p>Singapore’s iconic financial district skyline</p>
 </div>
 
 Walking through Singapore’s financial district feels like stepping into the future. Surrounded by sleek skyscrapers, luxury hotels, and bustling professionals, this area reflects the city’s status as a global financial hub.
 
-The skyline—especially at night—is one of the most iconic views in the world and a must-see for anyone visiting Singapore.
+The skyline especially at night is one of the most iconic views in the world and a must-see for anyone visiting Singapore.
 
 ---
 
 ## Merlion Park: The Icon of Singapore
 
-<div class="video-center">
+<div class="media">
   <video controls>
     <source src="{{ '/assets/videos/travel/singapore/fd.mp4' | relative_url }}" type="video/mp4">
   </video>
-  <p class="video-caption">Views around Merlion Park</p>
+  <p>Views around Merlion Park</p>
 </div>
 
 No trip to Singapore is complete without visiting the famous Merlion. With the body of a fish and the head of a lion, it represents Singapore’s origins as a fishing village and its rise as a global city.
@@ -53,16 +53,16 @@ From delicious Indian cuisine to street shopping, it’s a must-visit for those 
 
 ## Gardens by the Bay: A Futuristic Nature Experience
 
-<div class="image-center">
+<div class="media">
   <img src="{{ '/assets/images/travel/singapore/gardens_by_the_bay.jpg' | relative_url }}" alt="Gardens by the Bay Supertree structures at night">
-  <p class="image-caption">Gardens by the Bay light show</p>
+  <p>Gardens by the Bay light show</p>
 </div>
 
-<div class="video-center">
+<div class="media">
   <video controls>
     <source src="{{ '/assets/videos/travel/singapore/gbtb.mp4' | relative_url }}" type="video/mp4">
   </video>
-  <p class="video-caption">Gardens by the Bay Supertree light show</p>
+  <p>Gardens by the Bay Supertree light show</p>
 </div>
 
 Gardens by the Bay is one of Singapore’s most iconic attractions. The towering Supertree structures and climate-controlled domes create a surreal blend of nature and technology.
@@ -81,16 +81,16 @@ It’s the perfect place to explore Singapore’s cultural roots, try local food
 
 ## Sentosa Island: The Ultimate Getaway
 
-<div class="image-center">
+<div class="media">
   <img src="{{ '/assets/images/travel/singapore/pheonix_show_sentosa.jpg' | relative_url }}" alt="Wings of Time show at Sentosa beach Singapore">
-  <p class="image-caption">Wings of Time show at Sentosa</p>
+  <p>Wings of Time show at Sentosa</p>
 </div>
 
-<div class="video-center">
+<div class="media">
   <video controls>
     <source src="{{ '/assets/videos/travel/singapore/sentosa.mp4' | relative_url }}" type="video/mp4">
   </video>
-  <p class="video-caption">Cable car ride and views around Sentosa Island</p>
+  <p>Cable car ride and views around Sentosa Island</p>
 </div>
 
 Sentosa Island is Singapore’s top destination for relaxation and entertainment. With beautiful beaches, luxury resorts, and exciting attractions, it offers something for every traveler.
