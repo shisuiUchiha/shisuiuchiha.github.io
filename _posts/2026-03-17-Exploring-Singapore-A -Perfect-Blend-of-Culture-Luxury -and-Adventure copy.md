@@ -67,7 +67,7 @@ From delicious Indian cuisine to street shopping, it’s a must-visit for those 
 
 <div class="affiliate-box">
   👉 <a href="https://affiliate.klook.com/redirect?aid=116573&aff_adid=1241671&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F127-gardens-by-the-bay-singapore%2F" target="_blank">
-  Check prices & availability on Klook
+  Check Gardens by the Bay entry prices
   </a>
 </div>
 
@@ -101,7 +101,7 @@ It’s the perfect place to explore Singapore’s cultural roots, try local food
 
 <div class="affiliate-box">
   👉 <a href="https://affiliate.klook.com/redirect?aid=116573&aff_adid=1241673&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F130-faber-peak-cable-car-singapore%2F" target="_blank">
-  Check prices & availability on Klook
+  Book Sentosa Cable Car tickets
   </a>
 </div>
 
