@@ -5,6 +5,8 @@ title: About
 
 # About
 
-This blog explores my views regarding technology, science, global affairs, economics, travel and more.
+This blog is a collection of ideas, observations, and explorations across technology, coding, global affairs, economics, travel, and beyond.
 
-Articles aim to simplify complex topics and encourage thoughtful reading in the era of AI Bots.
+In a world increasingly shaped by automation and AI, the goal is to break down complex topics into clear, engaging, and thoughtful essays. Each article is written to encourage curiosity, deeper understanding, and meaningful reflection.
+
+Whether you're here to learn something new, explore different perspectives, or simply enjoy well-structured content, this blog aims to offer a space for insightful reading.
