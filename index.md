@@ -5,7 +5,7 @@ title: Home
 
 # My Thoughts
 
-my views, essays and explanations about technology, science, world affairs and travel.
+My views, essays and explanations about technology, science, world affairs and travel.
 
 ---
 
