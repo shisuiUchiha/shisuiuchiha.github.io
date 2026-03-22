@@ -108,6 +108,12 @@ It’s perfect for coffee lovers and Instagram-worthy photos.
   <p>War Remnants Museum</p>
 </div>
 
+<div class="affiliate-box">
+  👉 <a href="https://affiliate.klook.com/redirect?aid=116573&aff_adid=1241685&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F130780-war-remnants-museum-ticket-in-ho-chi-minh-city%2F" target="_blank">
+  Entry to Vietnam-US War Remnants Museum - Book here.
+  </a>
+</div>
+
 The **War Remnants Museum** offers a deep and emotional look into the Vietnam War. Through photographs, artifacts, and exhibits, it tells powerful stories of the past.
 
 It’s an intense but important place to understand Vietnam’s history.
