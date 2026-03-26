@@ -1,9 +1,9 @@
+theme: jekyll-theme-hacker
 title: Personal Blog
 description: My views on technology, coding, global affairs, economy, travel and more
 url: https://shisuiuchiha.github.io/
 
 markdown: kramdown
 permalink: /posts/:title/
-theme: jekyll-theme-hacker
 
 future: true
