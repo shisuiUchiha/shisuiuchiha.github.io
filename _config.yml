@@ -4,5 +4,6 @@ url: https://shisuiuchiha.github.io/
 
 markdown: kramdown
 permalink: /posts/:title/
+theme: jekyll-theme-minimal
 
 future: true
