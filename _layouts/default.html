@@ -1,60 +1,97 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-
-<link rel="stylesheet" href="/assets/css/style.css">
-
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HXPZM8QESE"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-HXPZM8QESE');
-</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  
+  <link rel="stylesheet" href="/assets/css/style.css">
+  
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HXPZM8QESE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-HXPZM8QESE');
+  </script>
+  
+  <script>
+    // Sticky header effect
+    window.addEventListener('scroll', function() {
+      const header = document.querySelector('header');
+      if (window.scrollY > 50) {
+        header.classList.add('scrolled');
+      } else {
+        header.classList.remove('scrolled');
+      }
+    });
+  </script>
 
 </head>
 
 <body>
 
-<div class="container">
-
 <header>
-
-<h1><a href="/">Personal Blog</a></h1>
-
-<nav>
-<a href="/">Home</a>
-<a href="/topics/technology">Technology</a>
-<a href="/topics/science">Science</a>
-<a href="/topics/global-affairs">Global Affairs</a>
-<a href="/topics/economy">Economy</a>
-<a href="/topics/travel">Travel</a>
-<a href="/topics/general">General</a>
-<a href="/about">About</a>
-<a href="/privacy">Privacy</a>
-</nav>
-
-<hr>
-
+  <div class="container">
+    <h1><a href="/">Personal Blog</a></h1>
+    
+    <nav>
+      <a href="/">Home</a>
+      <a href="/topics/technology">Technology</a>
+      <a href="/topics/science">Science</a>
+      <a href="/topics/global-affairs">Global Affairs</a>
+      <a href="/topics/economy">Economy</a>
+      <a href="/topics/travel">Travel</a>
+      <a href="/topics/general">General</a>
+      <a href="/about">About</a>
+      <a href="/privacy">Privacy</a>
+    </nav>
+  </div>
 </header>
 
 {{ content }}
 
 <footer>
-
-<hr>
-
-<p>© 2026 Personal Blog</p>
-
+  <div class="container">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin-bottom: 2rem;">
+      <div>
+        <h4 style="color: white; margin-bottom: 1rem;">About This Blog</h4>
+        <p style="color: rgba(255,255,255,0.8); line-height: 1.6;">
+          A space for thoughtful explorations across technology, science, global affairs, economy, and travel. Breaking down complex topics into clear, engaging essays.
+        </p>
+      </div>
+      
+      <div>
+        <h4 style="color: white; margin-bottom: 1rem;">Quick Links</h4>
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          <li style="margin-bottom: 0.5rem;"><a href="/">Home</a></li>
+          <li style="margin-bottom: 0.5rem;"><a href="/about">About</a></li>
+          <li style="margin-bottom: 0.5rem;"><a href="/topics/technology">Technology</a></li>
+          <li style="margin-bottom: 0.5rem;"><a href="/topics/travel">Travel</a></li>
+          <li style="margin-bottom: 0.5rem;"><a href="/privacy">Privacy Policy</a></li>
+        </ul>
+      </div>
+      
+      <div>
+        <h4 style="color: white; margin-bottom: 1rem;">Categories</h4>
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          <li style="margin-bottom: 0.5rem;"><a href="/topics/technology">💻 Technology</a></li>
+          <li style="margin-bottom: 0.5rem;"><a href="/topics/science">🔬 Science</a></li>
+          <li style="margin-bottom: 0.5rem;"><a href="/topics/global-affairs">🌍 Global Affairs</a></li>
+          <li style="margin-bottom: 0.5rem;"><a href="/topics/economy">💰 Economy</a></li>
+          <li style="margin-bottom: 0.5rem;"><a href="/topics/travel">✈️ Travel</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    <hr>
+    
+    <p style="text-align: center; margin: 1.5rem 0 0 0;">© 2026 Personal Blog. All rights reserved.</p>
+  </div>
 </footer>
-
-</div>
 
 </body>
 </html>

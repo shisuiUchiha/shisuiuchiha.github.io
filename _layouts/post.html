@@ -3,13 +3,21 @@ layout: default
 ---
 
 <article>
+  <h1>{{ page.title }}</h1>
+  
+  <div class="post-meta">
+    <span class="post-meta-item">📅 {{ page.date | date: "%B %d, %Y" }}</span>
+    {% if page.categories %}
+      <span class="post-meta-item">
+        <span class="post-category {{ page.categories[0] }}">{{ page.categories[0] | capitalize }}</span>
+      </span>
+    {% endif %}
+    {% if page.tags %}
+      <span class="post-meta-item">🏷️ {{ page.tags | join: ', ' }}</span>
+    {% endif %}
+  </div>
 
-<h1>{{ page.title }}</h1>
-
-<p class="post-date">
-{{ page.date | date: "%B %d, %Y" }}
-</p>
-
-{{ content }}
-
+  <div class="content">
+    {{ content }}
+  </div>
 </article>
