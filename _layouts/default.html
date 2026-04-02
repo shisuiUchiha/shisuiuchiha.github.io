@@ -28,6 +28,39 @@
         header.classList.remove('scrolled');
       }
     });
+    
+    // Mobile menu toggle
+    const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
+    const navContainer = document.getElementById('nav-container');
+    const navLinks = document.querySelectorAll('#nav a');
+    
+    // Toggle menu open/close
+    mobileMenuToggle.addEventListener('click', function() {
+      navContainer.classList.toggle('nav-open');
+      mobileMenuToggle.classList.toggle('active');
+      document.body.classList.toggle('nav-open');
+    });
+    
+    // Close menu when clicking on a navigation link
+    navLinks.forEach(link => {
+      link.addEventListener('click', () => {
+        navContainer.classList.remove('nav-open');
+        mobileMenuToggle.classList.remove('active');
+        document.body.classList.remove('nav-open');
+      });
+    });
+    
+    // Close menu when clicking outside
+    document.addEventListener('click', function(event) {
+      const isClickInsideNav = navContainer.contains(event.target);
+      const isClickOnToggle = mobileMenuToggle.contains(event.target);
+      
+      if (!isClickInsideNav && !isClickOnToggle && navContainer.classList.contains('nav-open')) {
+        navContainer.classList.remove('nav-open');
+        mobileMenuToggle.classList.remove('active');
+        document.body.classList.remove('nav-open');
+      }
+    });
   </script>
 
 <meta name='impact-site-verification' value='4cc0741f-d3dd-42a1-96fe-a20b8a19da88'>
@@ -40,17 +73,27 @@
   <div class="container">
     <h1><a href="/">Personal Blog</a></h1>
     
-    <nav>
-      <a href="/">Home</a>
-      <a href="/topics/technology">Technology</a>
-      <a href="/topics/science">Science</a>
-      <a href="/topics/global-affairs">Global Affairs</a>
-      <a href="/topics/economy">Economy</a>
-      <a href="/topics/travel">Travel</a>
-      <a href="/topics/general">General</a>
-      <a href="/about">About</a>
-      <a href="/privacy">Privacy</a>
-    </nav>
+    <!-- Mobile Menu Toggle Button -->
+    <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Toggle navigation">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    
+    <!-- Navigation Container -->
+    <div class="nav-container" id="nav-container">
+      <nav id="nav">
+        <a href="/">Home</a>
+        <a href="/topics/technology">Technology</a>
+        <a href="/topics/science">Science</a>
+        <a href="/topics/global-affairs">Global Affairs</a>
+        <a href="/topics/economy">Economy</a>
+        <a href="/topics/travel">Travel</a>
+        <a href="/topics/general">General</a>
+        <a href="/about">About</a>
+        <a href="/privacy">Privacy</a>
+      </nav>
+    </div>
   </div>
 </header>
 
