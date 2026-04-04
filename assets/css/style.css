@@ -168,6 +168,12 @@ header.scrolled {
   box-shadow: var(--shadow-md);
 }
 
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 header h1 {
   margin: 0;
   font-size: 1.75rem;
@@ -785,22 +791,13 @@ footer a:hover {
     font-size: 1.1rem;
   }
   
-  /* Mobile Header */
-  header .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem 20px;
-  }
-  
-  header h1 {
-    margin: 0;
-    font-size: 1.5rem;
-  }
-  
   /* Mobile Menu Toggle */
   .mobile-menu-toggle {
     display: block;
+  }
+  
+  header h1 {
+    font-size: 1.5rem;
   }
   
   /* Navigation Container */
